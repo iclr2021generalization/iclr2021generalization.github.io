@@ -39,7 +39,7 @@ plugins:
 header_pages:
 - index.md
 - speakers.md
-- speakers.md
+- penalists.md
 - callforabstracts.md
 - schedule.md
 - breakoutsession.md
