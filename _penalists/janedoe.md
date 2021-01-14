@@ -1,21 +1,21 @@
 ---
-# Name of the speaker
+# Name of the penalist
 name: Jane Doe
 
-# Link to the speaker's webpage
+# Link to the penalist's webpage
 webpage: https://jane.doe
 
-# Primary affiliation of the speaker
+# Primary affiliation of the penalist
 affil: Buzz University
-# Link to the speaker's primary affiliation
+# Link to the penalist's primary affiliation
 affil_link: https://buzz.edu
 
-# An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
+# An image of the penalist (square aspect ratio works the best) (place in the `assets/img/penalist` directory)
 img: jane.jpg
 
-# (Optional) Secondary affiliation of the speaker
+# (Optional) Secondary affiliation of the penalist
 affil2: BuzzFizz Corp
-# Link to the speaker's secondary affiliation 
+# Link to the penalist's secondary affiliation 
 affil2_link: https://buzzfizz.corp
 ---
 

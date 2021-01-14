@@ -10,47 +10,47 @@ layout: default
 
   <div class = "post-content">
 	  <table style="border-collapse: collapse; border: none;">
-	  	{% for penalists in site.penalistss %}
+	  	{% for penalist in site.penalists %}
 		    <tr style="border: none;">
 		        <td style="border: none;">
 		            <div class="col-xs-6">
 		                <p align="center">
-		                	{% if penalists.img %}
-		                    	<img class="people-pic" src="{{ penalists.img | prepend: '/assets/img/penalistss/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+		                	{% if penalist.img %}
+		                    	<img class="people-pic" src="{{ penalist.img | prepend: '/assets/img/penalists/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
 		                    {% else %}
-		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/penalistss/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/penalists/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
 		                    {% endif %}
 		                </p>
 		            </div>
 		        </td>
 		        <td style="border: none;">
 		            <div class="people-name text-center">
-		            	<!-- penalists name (link to webpage if provided) -->
-		            	{% if penalists.webpage %}
-		            		<b><a href="{{ penalists.webpage }}" target="_blank">{{ penalists.name }}</a></b>
+		            	<!-- penalist name (link to webpage if provided) -->
+		            	{% if penalist.webpage %}
+		            		<b><a href="{{ penalist.webpage }}" target="_blank">{{ penalist.name }}</a></b>
 		            	{% else %}
-		            		<b>{{ penalists.name }}</b>
+		            		<b>{{ penalist.name }}</b>
 		            	{% endif %}
 		                <br>
-		                <!-- penalists affiliation (if provided) -->
-		                {% if penalists.affil_link %}
-		                	<a href="{{ penalists.affil_link }}" target="_blank">{{ penalists.affil }}</a>
+		                <!-- penalist affiliation (if provided) -->
+		                {% if penalist.affil_link %}
+		                	<a href="{{ penalist.affil_link }}" target="_blank">{{ penalist.affil }}</a>
 		                {% else %}
-		                	{{ penalists.affil }}
+		                	{{ penalist.affil }}
 		                {% endif %}
-		                <!-- Additional penalists affiliation (if provided) -->
-		                {% if penalists.affil2_link %}
+		                <!-- Additional penalist affiliation (if provided) -->
+		                {% if penalist.affil2_link %}
 		                	<br>
-		                	<a href="{{ penalists.affil2_link }}" target="_blank">{{ penalists.affil2 }}</a>
-		                {% elsif penalists.affil2 %}
+		                	<a href="{{ penalist.affil2_link }}" target="_blank">{{ penalist.affil2 }}</a>
+		                {% elsif penalist.affil2 %}
 		                	<br>
-		                	{{ penalists.affil2 }}
+		                	{{ penalist.affil2 }}
 		                {% endif %}
 		            </div>
 		        </td>
 		        <td style="border: none;">
 		        	<div class="people-name text-center">
-		        		{{ penalists.content }}
+		        		{{ penalist.content }}
 		        	</div>
 		        </td>
 		    </tr>
