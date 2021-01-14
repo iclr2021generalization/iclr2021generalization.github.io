@@ -39,10 +39,11 @@ plugins:
 header_pages:
 - index.md
 - speakers.md
-- organizers.md
-- callforpapers.md
+- penalists.md
+- callforabstracts.md
 - schedule.md
-- papers.md
+- breakoutsession.md
+- organizers.md
 - contactus.md
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
