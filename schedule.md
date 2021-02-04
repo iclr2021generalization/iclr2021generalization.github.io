@@ -1,5 +1,7 @@
 ---
 layout: schedule
-title: Schedule
+title: Schedule 
 permalink: /schedule/
 ---
+
+(EASTERN STANDARD TIME)

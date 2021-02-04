@@ -5,28 +5,15 @@ layout: default
 <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <h1 class="post-title">{{ page.title | escape }} (Eastern Standard Time)</h1>
   </header>
 
   <div class = "post-content">
 	  <table>
 	  	{% for scheduleitem in site.schedule %}
 		    <tr>
-		        <td>
-		            <p align="center">
-		                {{ scheduleitem.time }}
-		            </p>
-		        </td>
-		        <td>
-		            <div class="col-xs-12">
-		                <p align="center">
-		                	{% if scheduleitem.img %}
-		                    	<img class="people-pic" src="{{ scheduleitem.img | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% else %}
-		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% endif %}
-		                </p>
-		            </div>
+		        <td align="center">
+					{{ scheduleitem.time }}
 		        </td>
 		        <td align="center">
 		        	<div class="col-xs-12">
