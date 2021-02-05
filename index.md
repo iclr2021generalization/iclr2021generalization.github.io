@@ -23,7 +23,7 @@ The following is a toy example to depict generalization beyond the training dist
   <tr>
     <td></td>
     <td><img align="center" src="https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/img/elephant2.jpg" width="350"></td>
-    <td><img align="center" src="https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/img/elephant1.png" width="300"></td>
+    <td><img align="center" src="https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/img/elephant1.png" width="300" class="flip-horizontally"></td>
   </tr>
   <tr>
     <td>

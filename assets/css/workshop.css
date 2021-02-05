@@ -99,3 +99,7 @@ table, tr, td {
     padding: 0.5vw;
     text-align: center !important;
 }
+
+.flip-horizontally {
+  transform: scaleX(-1);
+}
