@@ -19,18 +19,18 @@ The following is a toy example to depict generalization beyond the training dist
 
 
 
- <table style="width:80%">
-  <tr>
-    <td></td>
-    <td><img align="center" src="https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/img/elephant2.jpg" width="350"></td>
-    <td><img align="center" src="https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/img/elephant1.png" width="300" class="flip-horizontally"></td>
+ <table style="width:80%; border: none !important; background: transparent !important; text-align: center !important;" >
+  <tr style="border: none !important; background: transparent !important; text-align: center !important;">
+    <td style="border: none !important; background: transparent !important; text-align: center !important;"></td>
+    <td style="border: none !important; background: transparent !important; text-align: center !important;"><img align="center" src="https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/img/elephant2.jpg" width="350"></td>
+    <td style="border: none !important; background: transparent !important; text-align: center !important;"><img align="center" src="https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/img/elephant1.png" width="300" class="flip-horizontally"></td>
   </tr>
-  <tr>
-    <td>
+  <tr style="border: none !important; background: transparent !important; text-align: center !important;">
+    <td style="border: none !important; background: transparent !important; text-align: center !important;">
 <a href="https://storage.googleapis.com/tfjs-examples/mobilenet/dist/index.html">MobileNet:</a>
   </td>
-    <td>This is a `vizsla' or a `dromedary'. </td>
-    <td>This a `trilobite' or a `walking stick'.  </td>
+    <td style="border: none !important; background: transparent !important; text-align: center !important;">This is a `vizsla' or a `dromedary'. </td>
+    <td style="border: none !important; background: transparent !important; text-align: center !important;">This a `trilobite' or a `walking stick'.  </td>
   </tr>
 </table> 
 
