@@ -92,3 +92,10 @@ span.award-other img {
   padding-top: 0;
   padding-bottom: 8px;
 }
+
+table, tr, td {
+    border: none !important;
+    background: transparent !important;
+    padding: 0.5vw;
+    text-align: center !important;
+}

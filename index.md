@@ -15,6 +15,30 @@ layout: home
 
 Deep Neural Networks (DNNs) are the leading approach for nearly all domains of machine learning and computer vision, with performance at times rivaling human perception. However, there is consensus that these models are outmatched by the robustness and versatility of biological brains. DNNs are sensitive to so-called shifts of the training distribution, where systematic differences between the train and test sets can significantly degrade performance. Distributional shifts can be induced by random or structured (adversarial) perturbations, changes in object or scene viewpoint, illumination, or color, and novel compositions of familiar features. These issues are magnified in domains where training data is scarce. In contrast, flexible and efficient generalization is a hallmark of biological perception and intelligence. We believe that the algorithms implemented in biological brains offer clues for how to construct artificial intelligence that can generalize beyond the training distribution.
 
+The following is a toy example to depict generalization beyond the training distribution ---MobileNet trying to classify an elephant with rare features:
+
+
+
+ <table style="width:80%">
+  <tr>
+    <td></td>
+    <td><img align="center" src="https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/img/elephant2.jpg" width="350"></td>
+    <td><img align="center" src="https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/img/elephant1.png" width="300"></td>
+  </tr>
+  <tr>
+    <td>
+<a href="https://storage.googleapis.com/tfjs-examples/mobilenet/dist/index.html">MobileNet:</a>
+  </td>
+    <td>This is a `vizsla' or a `dromedary'. </td>
+    <td>This a `trilobite' or a `walking stick'.  </td>
+  </tr>
+</table> 
+
+
+
+
+
+
 
 In this workshop, we aim to address the following questions: 
 * What are the neural mechanisms in biological brains that facilitate out-of-distribution generalization?   
