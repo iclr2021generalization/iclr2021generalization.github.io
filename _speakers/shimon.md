@@ -6,7 +6,7 @@ name: Shimon Ullman
 webpage: http://www.weizmann.ac.il/math/shimon/home
 
 # Primary affiliation of the speaker
-affil: Weizmann Institute of Science
+affil: Weizmann Institute of Science, CBMM
 # Link to the speaker's primary affiliation
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
