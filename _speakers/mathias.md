@@ -20,4 +20,4 @@ affil2_link: https://buzzfizz.corp
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Matthias Bethge is Professor for Computational Neuroscience and Machine Learning at the University of Tübingen and director of the Tübingen AI Center. His main research focus is on robust vision and neural decision making with the goal to advance internal model learning with neural networks. 
+Matthias Bethge is Professor for Computational Neuroscience and Machine Learning at the University of Tübingen and director of the Tübingen AI Center, a joint center between Tübingen University and MPI for Intelligent Systems. He is also a co-founder of Deepart UG, and Layer7 AI GmbH, and co-initiator of the European ELLIS initiative. His main research focus is on robust vision and neural decision making with the goal to advance internal model learning with neural networks. 
