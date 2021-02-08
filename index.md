@@ -30,7 +30,7 @@ The following is a toy example to depict generalization beyond the training dist
 <a href="https://storage.googleapis.com/tfjs-examples/mobilenet/dist/index.html">MobileNet:</a>
   </td>
     <td style="border: none !important; background: transparent !important; text-align: center !important;">This is a `vizsla' or a `dromedary'. </td>
-    <td style="border: none !important; background: transparent !important; text-align: center !important;">This a `trilobite' or a `walking stick'.  </td>
+    <td style="border: none !important; background: transparent !important; text-align: center !important;">This is a `trilobite' or a `walking stick'.  </td>
   </tr>
 </table> 
 
