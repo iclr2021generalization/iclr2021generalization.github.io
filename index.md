@@ -9,9 +9,16 @@ layout: home
 
 #  Generalization beyond the training distribution in brains and machines 
 
+
 >  "During all their lifetime, prisoners like this have never managed to see anything besides the shadows that are projected on the wall opposite to them by the glow of the fire [...] If someone were to show them any of the things that were passing by and forced them to answer the question about what it was, don't you think that they would be at wit's end?"
 >
 > -- The allegory of the cave, Plato
+
+
+<br>
+
+<p style="text-align: left"><em> Workshop date: May 8th, 2021 </em></p>
+
 
 Deep Neural Networks (DNNs) are the leading approach for nearly all domains of machine learning and computer vision, with performance at times rivaling human perception. However, there is consensus that these models are outmatched by the robustness and versatility of biological brains. DNNs are sensitive to so-called shifts of the training distribution, where systematic differences between the train and test sets can significantly degrade performance. Distributional shifts can be induced by random or structured (adversarial) perturbations, changes in object or scene viewpoint, illumination, or color, and novel compositions of familiar features. These issues are magnified in domains where training data is scarce. In contrast, flexible and efficient generalization is a hallmark of biological perception and intelligence. We believe that the algorithms implemented in biological brains offer clues for how to construct artificial intelligence that can generalize beyond the training distribution.
 
