@@ -1,6 +1,6 @@
 ---
 sequence_id: 20
-speaker: TBA
+speaker: 
 title: Closing Remarks
 time: 17:50 - 17:55
 ---
