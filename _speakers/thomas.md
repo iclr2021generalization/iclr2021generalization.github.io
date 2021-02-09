@@ -20,4 +20,4 @@ affil2_link: https://buzzfizz.corp
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Thomas Serre is an Associate Professor at Brown University. His research seeks to understand the neural computations supporting visual perception.
+Thomas Serre is an Associate Professor in Cognitive Linguistic & Psychological Sciences and an affiliate of the Carney Institute for Brain Science at Brown University. He also holds an International Chair in AI within the ANR-3IA Artificial and Natural Intelligence Toulouse Institute (France). His research seeks to understand the neural computations supporting visual perception through a combination of computational neuroscience, cognitive science, and machine learning.
