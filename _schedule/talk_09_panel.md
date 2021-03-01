@@ -1,7 +1,7 @@
 ---
-sequence_id: 11
+sequence_id: 9
 speaker: TBA
 img: jane.jpg
 title: Panel discussion
-time: 14:00 - 14:30
+time: 12:20 - 12:50
 ---
