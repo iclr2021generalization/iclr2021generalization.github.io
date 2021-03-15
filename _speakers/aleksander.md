@@ -20,4 +20,4 @@ affil2_link: https://buzzfizz.corp
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Aleksander Mądry is a Professor of Computer Science in the MIT EECS Department, a member of CSAIL and of the Theory of Computation group. His research spans algorithmic graph theory, optimization and machine learning. In particular, he has a strong interest in building on the existing machine learning techniques to forge a decision-making toolkit that is reliable and well-understood enough to be safely and responsibly deployed in the real world. 
+Aleksander Mądry is a Professor of Computer Science in the MIT EECS Department and leads the MIT Center for Deployable Machine Learning. His research interests span algorithms, continuous optimization, and machine learning. In particular, he has a strong interest in building on the existing machine learning techniques to forge a decision-making toolkit that is reliable and well-understood enough to be safely and responsibly deployed in the real world.
