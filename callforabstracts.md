@@ -17,11 +17,12 @@ We welcome submission on the following non-exhaustive topics, touching on system
 
 ### Important Dates (anywhere on earth)
 
-* Paper submission deadline:    12 March 2021
+* Paper submission deadline:    Extended to 20 March 2021
 
 * Acceptance notification:    26 March 2021
 
-* Workshop:            8 May 2021
+* Workshop:            Friday, May <font color="red">7th</font>, 2021 <font color="red">(Note this new date!)</font>
+
 
 ### Author Instructions:
 
