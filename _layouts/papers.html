@@ -18,7 +18,7 @@ layout: default
 							<!-- Link to PDF (if provided) -->
 							{% if paper.paper %}
 							<br>
-							<a href="{{ paper.paper | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Abstract</a>
+							<a href="{{ paper.paper | prepend: 'https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Abstract</a>
 							{% endif %}
 		                </p>
 		            </div>
@@ -29,7 +29,7 @@ layout: default
 							<!-- Link to PDF (if provided) -->
 							{% if paper.poster %}
 							<br>
-							<a href="{{ paper.poster | prepend: '/assets/pdf/poster/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster</a>
+							<a href="{{ paper.poster | prepend: 'https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/pdf/posters/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster</a>
 							{% endif %}
 						</p>
 					</div>
