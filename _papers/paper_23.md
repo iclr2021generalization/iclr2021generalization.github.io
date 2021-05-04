@@ -3,7 +3,7 @@
 sequence_id: 23
 
 # Paper title
-title: Symmetry Perception by Deep Neural Networks
+title: Recurrent Connections Facilitate Learning Symmetry Perception
 
 # Paper authors
 authors: Sundaram, Shobhita*; Sinha, Darius; Groth, Matt; Boix, Xavier
