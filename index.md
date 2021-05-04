@@ -55,3 +55,12 @@ In this workshop, we aim to address the following questions:
 
 The limited generalization of DNNs is a critical problem for artificial intelligence, in applications ranging from automated driving and biomedical image analysis, and domains like reinforcement learning, control, and representational theory. Our goal is to address these issues by creating synergies among neuroscientists, cognitive scientists, and artificial intelligence researchers that might lead to novel solutions to this problem or emphasize relevant existing classical work.
 
+
+The topic covered in this workshop is of critical importance for the machine learning community, 
+and we would like to highlight other workshops covering similar topics from neighbouring research communities:
+
+* <a href="https://iccv21-adv-workshop.github.io/">ICCV 2021 workshop on "Adversarial Robustness in the Real World"</a>
+* <a href="https://sites.google.com/view/udlworkshop2021/home">ICML 2021 workshop on "Uncertainty & Robustness in Deep Learning" </a>
+
+
+
