@@ -1,5 +1,5 @@
 ---
 layout: speakers
-title: Speakers and Panelists
+title: Speakers
 permalink: /speakers/
 ---
