@@ -18,11 +18,22 @@ layout: default
 							<!-- Link to PDF (if provided) -->
 							{% if paper.paper %}
 							<br>
-							<a href="{{ paper.paper | prepend: 'https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>
+							<a href="{{ paper.paper | prepend: 'https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Abstract</a>
 							{% endif %}
 		                </p>
 		            </div>
 		        </td>
+				<td>
+					<div class="people-name text-center">
+						<p align="center">
+							<!-- Link to PDF (if provided) -->
+							{% if paper.poster %}
+							<br>
+							<a href="{{ paper.poster | prepend: 'https://raw.githubusercontent.com/iclr2021generalization/iclr2021generalization.github.io/main/assets/pdf/posters/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster</a>
+							{% endif %}
+						</p>
+					</div>
+				</td>
 		        <td align="center">
 		        	<div class="people-name text-center">
 			        	<b>{{ paper.title }}</b>
