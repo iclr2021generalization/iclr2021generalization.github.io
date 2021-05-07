@@ -19,7 +19,7 @@ layout: home
 
 <p style="text-align: left"><em> Workshop date: Friday, May 7th, 2021 </em></p>
 
-<p style="text-align: left"><em> Access to the Workshop (need registration to ICLR): https://iclr.cc/virtual/2021/workshop/2138 </em></p>
+<p style="text-align: left"><strong> Access to the Workshop (need registration to ICLR): https://iclr.cc/virtual/2021/workshop/2138 </strong></p>
 
 Deep Neural Networks (DNNs) are the leading approach for nearly all domains of machine learning and computer vision, with performance at times rivaling human perception. However, there is consensus that these models are outmatched by the robustness and versatility of biological brains. DNNs are sensitive to so-called shifts of the training distribution, where systematic differences between the train and test sets can significantly degrade performance. Distributional shifts can be induced by random or structured (adversarial) perturbations, changes in object or scene viewpoint, illumination, or color, and novel compositions of familiar features. These issues are magnified in domains where training data is scarce. In contrast, flexible and efficient generalization is a hallmark of biological perception and intelligence. We believe that the algorithms implemented in biological brains offer clues for how to construct artificial intelligence that can generalize beyond the training distribution.
 
